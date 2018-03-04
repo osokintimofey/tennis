@@ -1,0 +1,25 @@
+{
+  "name": "tennis",
+  "version": "1.0.0",
+  "description": "server that sends notification in case of possible winning sequencein tennis match",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osokintimofey/tennis.git"
+  },
+  "keywords": [
+    "tennis",
+    "betting",
+    "match",
+    "deuce"
+  ],
+  "author": "Timofey Osokin <minusguy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osokintimofey/tennis/issues"
+  },
+  "homepage": "https://github.com/osokintimofey/tennis#readme"
+}
